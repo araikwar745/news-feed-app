@@ -3,7 +3,7 @@ Subject: Assignment 1 - News Feed App Submission
 
 Hi Team,
 
-I have successfully completed the News Feed App assignment.
+I have successfully completed the News Feed App assignment for Assignment 1.
 
 GitHub Repository:
 https://github.com/araikwar745/news-feed-app
@@ -16,15 +16,16 @@ Features Implemented:
 ✅ Search functionality to search news by keyword
 ✅ React functional components with useState and useEffect hooks
 ✅ Tailwind CSS for modern, clean styling
-✅ Loading states (animated spinner)
+✅ Loading states with animated spinner
 ✅ Error handling with user-friendly messages
 ✅ Bonus: 7 category filters (General, Business, Technology, Health, Science, Sports, Entertainment)
-✅ Bonus: Pagination system
-✅ Bonus: Dark/Light theme toggle
-✅ Responsive design
+✅ Bonus: Pagination system with Previous/Next buttons
+✅ Bonus: Dark/Light theme toggle with smooth transitions
+✅ Responsive design that works on all devices
 
 Thank you for your consideration.
 
 Best regards,
 Ashish Raikwar
+araikwar745@gmail.com
 

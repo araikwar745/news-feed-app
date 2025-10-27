@@ -53,7 +53,7 @@ GitHub Repository:
 https://github.com/araikwar745/news-feed-app
 
 Live Demo:
-https://YOUR-APP.netlify.app
+https://news-feed-app-ashish.netlify.app
 
 Thank you!
 

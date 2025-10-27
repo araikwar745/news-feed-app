@@ -20,7 +20,7 @@ I have successfully completed the News Feed App assignment for Assignment 1.
 https://github.com/araikwar745/news-feed-app
 
 **Live Demo (Netlify):**
-https://YOUR-APP-NAME.netlify.app
+https://news-feed-app-ashish.netlify.app
 
 **Features Implemented:**
 - ✅ Fetch and display news articles with title, image, and description
@@ -85,8 +85,7 @@ Thank you!
 Ashish Raikwar
 ```
 
-Replace:
-- YOUR-APP with your actual Netlify/Vercel URL
+Your app is deployed at: https://news-feed-app-ashish.netlify.app
 
 ---
 
