@@ -21,7 +21,7 @@ STEP 1: CREATE GITHUB REPOSITORY
 STEP 2: COPY YOUR REPOSITORY URL
 ---------------------------------
 You'll see something like:
-https://github.com/YOUR_USERNAME/news-feed-app.git
+https://github.com/araikwar745/news-feed-app.git
 
 Copy this URL.
 
@@ -29,19 +29,19 @@ STEP 3: PUSH YOUR CODE
 ---------------------------------
 Open PowerShell in the ASSIGNMENT_1 folder and run:
 
-$REPO_URL = "https://github.com/YOUR_USERNAME/news-feed-app.git"
+$REPO_URL = "https://github.com/araikwar745/news-feed-app.git"
 git remote add origin $REPO_URL
 git branch -M main
 git push -u origin main
 
-Replace YOUR_USERNAME with your actual GitHub username!
+Replace araikwar745 with your actual GitHub username!
 
 ================================================================================
                      ALTERNATIVE: USE THE SCRIPT
 ================================================================================
 
 1. Open: push-to-github.ps1
-2. Edit line 8 and replace YOUR_USERNAME with your GitHub username
+2. Edit line 8 and replace araikwar745 with your GitHub username
 3. Run the script in PowerShell
 
 ================================================================================

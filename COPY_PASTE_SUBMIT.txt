@@ -11,7 +11,7 @@ YOUR APP IS 100% READY! Just get your 2 links and send this email:
 1. Get GitHub link (after pushing)
 2. Get Netlify link (after deploying)  
 3. Copy email below
-4. Replace YOUR_USERNAME and YOUR-APP
+4. Replace araikwar745 and YOUR-APP
 5. Send!
 
 ================================================================================
@@ -26,7 +26,7 @@ Hi Team,
 I have successfully completed the News Feed App assignment.
 
 GitHub Repository:
-https://github.com/YOUR_USERNAME/news-feed-app
+https://github.com/araikwar745/news-feed-app
 
 Live Demo (Netlify):
 https://YOUR-APP.netlify.app
@@ -51,7 +51,7 @@ Ashish Raikwar
                       REPLACE THESE WORDS:
 ================================================================================
 
-YOUR_USERNAME = Your GitHub username
+araikwar745 = Your GitHub username
 YOUR-APP = Your Netlify app name (e.g., amazing-news-123)
 
 ================================================================================
@@ -61,7 +61,7 @@ YOUR-APP = Your Netlify app name (e.g., amazing-news-123)
 AFTER CREATING GITHUB REPO, RUN THESE:
 
 cd "C:\Users\araik\OneDrive\Desktop\CDS\WEB DEV\ASSIGNMENT_1"
-git remote add origin https://github.com/YOUR_USERNAME/news-feed-app.git
+git remote add origin https://github.com/araikwar745/news-feed-app.git
 git branch -M main
 git push -u origin main
 

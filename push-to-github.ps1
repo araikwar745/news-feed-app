@@ -6,7 +6,7 @@ Write-Host "Pushing to GitHub..." -ForegroundColor Cyan
 Write-Host "====================================" -ForegroundColor Cyan
 
 # UPDATE THIS URL with your GitHub repository URL
-$REPO_URL = "https://github.com/YOUR_USERNAME/news-feed-app.git"
+$REPO_URL = "https://github.com/araikwar745/news-feed-app.git"
 
 Write-Host ""
 Write-Host "Step 1: Adding remote origin..." -ForegroundColor Yellow

@@ -20,12 +20,12 @@ GitHub will show you commands. In PowerShell, run:
 
 ```bash
 cd "C:\Users\araik\OneDrive\Desktop\CDS\WEB DEV\ASSIGNMENT_1"
-git remote add origin https://github.com/YOUR_USERNAME/news-feed-app.git
+git remote add origin https://github.com/araikwar745/news-feed-app.git
 git branch -M main
 git push -u origin main
 ```
 
-**Replace YOUR_USERNAME with your actual GitHub username!**
+**Replace araikwar745 with your actual GitHub username!**
 
 Example:
 ```bash
@@ -34,7 +34,7 @@ git branch -M main
 git push -u origin main
 ```
 
-✅ Done! You now have: https://github.com/YOUR_USERNAME/news-feed-app
+✅ Done! You now have: https://github.com/araikwar745/news-feed-app
 
 ---
 
@@ -71,7 +71,7 @@ Hi Team,
 I have successfully completed the News Feed App assignment.
 
 GitHub Repository:
-https://github.com/YOUR_USERNAME/news-feed-app
+https://github.com/araikwar745/news-feed-app
 
 Live Demo (Netlify):
 https://your-app-name.netlify.app
@@ -120,7 +120,7 @@ Ashish Raikwar
 
 ### Your App is at:
 - **Local:** http://localhost:8080
-- **GitHub:** https://github.com/YOUR_USERNAME/news-feed-app (after push)
+- **GitHub:** https://github.com/araikwar745/news-feed-app (after push)
 - **Netlify:** https://your-app-name.netlify.app (after deploy)
 
 ### Your Project Folder:

@@ -6,7 +6,7 @@ Hi Team,
 I have successfully completed the News Feed App assignment.
 
 GitHub Repository:
-https://github.com/YOUR_USERNAME/news-feed-app
+https://github.com/araikwar745/news-feed-app
 
 Live Demo (Netlify):
 https://YOUR-APP-NAME.netlify.app

@@ -22,7 +22,7 @@ Everything is ready! Just copy and paste:
 
 Replace [PASTE YOUR REPO URL HERE] with the URL GitHub shows you!
 
-DONE! ✅ Your GitHub link: https://github.com/YOUR_USERNAME/news-feed-app
+DONE! ✅ Your GitHub link: https://github.com/araikwar745/news-feed-app
 
 ================================================================================
                 STEP 2: NETLIFY (2 MINUTES)
@@ -52,7 +52,7 @@ Hi,
 
 I have completed the News Feed App assignment.
 
-GitHub: https://github.com/YOUR_USERNAME/news-feed-app
+GitHub: https://github.com/araikwar745/news-feed-app
 Live Demo: https://YOUR-APP.netlify.app
 
 Features: Search, Categories, Pagination, Dark/Light theme, React hooks, Tailwind CSS

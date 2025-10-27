@@ -18,7 +18,7 @@ Your code is already committed! Now just create a GitHub repository and push.
 ### Step 2: Copy Your Repository URL
 GitHub will show you commands like this:
 ```
-git remote add origin https://github.com/YOUR_USERNAME/news-feed-app.git
+git remote add origin https://github.com/araikwar745/news-feed-app.git
 git branch -M main
 git push -u origin main
 ```
@@ -28,12 +28,12 @@ Open terminal in VS Code (or Command Prompt in ASSIGNMENT_1 folder) and run:
 
 ```bash
 cd "C:\Users\araik\OneDrive\Desktop\CDS\WEB DEV\ASSIGNMENT_1"
-git remote add origin https://github.com/YOUR_USERNAME/news-feed-app.git
+git remote add origin https://github.com/araikwar745/news-feed-app.git
 git branch -M main
 git push -u origin main
 ```
 
-Replace `YOUR_USERNAME` with your actual GitHub username!
+Replace `araikwar745` with your actual GitHub username!
 
 ---
 
@@ -46,7 +46,7 @@ Your code will be on GitHub!
 ## 🔗 After Pushing
 
 You'll get a URL like:
-`https://github.com/YOUR_USERNAME/news-feed-app`
+`https://github.com/araikwar745/news-feed-app`
 
 Share this URL when submitting!
 

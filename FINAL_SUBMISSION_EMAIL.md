@@ -17,7 +17,7 @@
 I have successfully completed the News Feed App assignment for Assignment 1.
 
 **GitHub Repository:**
-https://github.com/YOUR_USERNAME/news-feed-app
+https://github.com/araikwar745/news-feed-app
 
 **Live Demo (Netlify):**
 https://YOUR-APP-NAME.netlify.app
@@ -44,11 +44,10 @@ Ashish Raikwar
 ## 📋 How to Get Your Links
 
 ### 1. GitHub Repository Link
-After pushing to GitHub, your link will be:
+Your GitHub link is:
 ```
-https://github.com/YOUR_USERNAME/news-feed-app
+https://github.com/araikwar745/news-feed-app
 ```
-Replace YOUR_USERNAME with your actual GitHub username.
 
 ### 2. Deployed Project Link
 
@@ -75,7 +74,7 @@ Hi Team,
 I have successfully completed the News Feed App assignment.
 
 GitHub Repository:
-https://github.com/YOUR_USERNAME/news-feed-app
+https://github.com/araikwar745/news-feed-app
 
 Live Demo:
 https://YOUR-APP.netlify.app
@@ -87,7 +86,6 @@ Ashish Raikwar
 ```
 
 Replace:
-- YOUR_USERNAME with your GitHub username
 - YOUR-APP with your actual Netlify/Vercel URL
 
 ---

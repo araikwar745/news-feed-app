@@ -2,6 +2,11 @@
   "name": "news-feed-app",
   "private": true,
   "version": "1.0.0",
+  "author": "Ashish Raikwar <araikwar745@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/araikwar745/news-feed-app.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

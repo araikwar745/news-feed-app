@@ -35,10 +35,10 @@ STEP 1: PUSH TO GITHUB (5 minutes)
    - Make it Public
    - DON'T initialize with README
 
-2. Run this in PowerShell (replace YOUR_USERNAME):
+2. Run this in PowerShell (replace araikwar745):
    
    cd "C:\Users\araik\OneDrive\Desktop\CDS\WEB DEV\ASSIGNMENT_1"
-   git remote add origin https://github.com/YOUR_USERNAME/news-feed-app.git
+   git remote add origin https://github.com/araikwar745/news-feed-app.git
    git branch -M main
    git push -u origin main
 
@@ -62,7 +62,7 @@ Hello,
 
 I have completed the News Feed App assignment.
 
-GitHub: https://github.com/YOUR_USERNAME/news-feed-app
+GitHub: https://github.com/araikwar745/news-feed-app
 Live Demo: https://your-app.netlify.app
 
 Features:

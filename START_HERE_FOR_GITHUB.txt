@@ -24,9 +24,9 @@ STEP 2: PUSH YOUR CODE
 ---------------------------------
 Open PowerShell in this folder and run:
 
-(Replace YOUR_USERNAME and REPO_NAME with yours!)
+(Replace araikwar745 and REPO_NAME with yours!)
 
-git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
+git remote add origin https://github.com/araikwar745/REPO_NAME.git
 git branch -M main
 git push -u origin main
 
@@ -39,7 +39,7 @@ git push -u origin main
 
 STEP 3: DONE! 
 ---------------------------------
-Your code will be at: https://github.com/YOUR_USERNAME/news-feed-app
+Your code will be at: https://github.com/araikwar745/news-feed-app
 
 Share this URL when submitting!
 

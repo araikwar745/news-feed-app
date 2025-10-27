@@ -20,12 +20,12 @@
 GitHub will show you this page. Open PowerShell in the ASSIGNMENT_1 folder and run:
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/news-feed-app.git
+git remote add origin https://github.com/araikwar745/news-feed-app.git
 git branch -M main
 git push -u origin main
 ```
 
-**Replace YOUR_USERNAME with your actual GitHub username!**
+**Replace araikwar745 with your actual GitHub username!**
 
 Example if your username is `ashish2024`:
 ```bash
@@ -38,7 +38,7 @@ git push -u origin main
 
 ## ✅ DONE!
 
-Your code will be live at: `https://github.com/YOUR_USERNAME/news-feed-app`
+Your code will be live at: `https://github.com/araikwar745/news-feed-app`
 
 ---
 
@@ -54,7 +54,7 @@ Your code will be live at: `https://github.com/YOUR_USERNAME/news-feed-app`
 
 Share this URL when submitting:
 ```
-https://github.com/YOUR_USERNAME/news-feed-app
+https://github.com/araikwar745/news-feed-app
 ```
 
 ---

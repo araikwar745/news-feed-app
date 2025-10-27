@@ -15,13 +15,11 @@ YOUR APP IS 100% READY! Just do these 3 steps:
 5. Run these commands in PowerShell:
 
    cd "C:\Users\araik\OneDrive\Desktop\CDS\WEB DEV\ASSIGNMENT_1"
-   git remote add origin https://github.com/YOUR_USERNAME/news-feed-app.git
+   git remote add origin https://github.com/araikwar745/news-feed-app.git
    git branch -M main
    git push -u origin main
 
-Replace YOUR_USERNAME with your GitHub username!
-
-Your GitHub URL: https://github.com/YOUR_USERNAME/news-feed-app
+Your GitHub URL: https://github.com/araikwar745/news-feed-app
 
 ================================================================================
                     STEP 2: DEPLOY (2 minutes)
@@ -52,7 +50,7 @@ Hi Team,
 I have completed the News Feed App assignment.
 
 GitHub Repository:
-https://github.com/YOUR_USERNAME/news-feed-app
+https://github.com/araikwar745/news-feed-app
 
 Live Demo:
 https://YOUR-APP.netlify.app
