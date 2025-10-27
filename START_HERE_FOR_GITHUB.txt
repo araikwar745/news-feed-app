@@ -1,0 +1,51 @@
+================================================================================
+                    🚀 UPLOAD TO GITHUB - START HERE 🚀
+================================================================================
+
+YOUR CODE IS READY! Just follow these 3 steps:
+
+================================================================================
+
+STEP 1: CREATE GITHUB REPOSITORY
+---------------------------------
+1. Go to: https://github.com/new
+2. Repository name: news-feed-app
+3. Choose: PUBLIC
+4. DON'T check "Initialize this repository with:"
+5. Click "Create repository"
+
+You'll see a page with commands. Copy your repository URL!
+
+It will look like: https://github.com/ashish2024/news-feed-app.git
+
+================================================================================
+
+STEP 2: PUSH YOUR CODE
+---------------------------------
+Open PowerShell in this folder and run:
+
+(Replace YOUR_USERNAME and REPO_NAME with yours!)
+
+git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
+git branch -M main
+git push -u origin main
+
+Example:
+git remote add origin https://github.com/ashish2024/news-feed-app.git
+git branch -M main
+git push -u origin main
+
+================================================================================
+
+STEP 3: DONE! 
+---------------------------------
+Your code will be at: https://github.com/YOUR_USERNAME/news-feed-app
+
+Share this URL when submitting!
+
+================================================================================
+
+🔗 GO NOW: https://github.com/new
+
+================================================================================
+

@@ -1,0 +1,33 @@
+To: hr@appdost.in
+Subject: Assignment 1 - News Feed App Submission
+
+Hi Team,
+
+I have successfully completed the News Feed App assignment.
+
+GitHub Repository:
+https://github.com/YOUR_USERNAME/news-feed-app
+
+Live Demo (Netlify):
+https://YOUR-APP-NAME.netlify.app
+
+Live Demo (Vercel - Alternative):
+https://YOUR-APP-NAME.vercel.app
+
+Features Implemented:
+✅ Fetch and display news articles with title, image, and description
+✅ Search functionality to search news by keyword
+✅ React functional components with useState and useEffect hooks
+✅ Tailwind CSS for modern, clean styling
+✅ Loading states (animated spinner)
+✅ Error handling with user-friendly messages
+✅ Bonus: 7 category filters (General, Business, Technology, Health, Science, Sports, Entertainment)
+✅ Bonus: Pagination system
+✅ Bonus: Dark/Light theme toggle
+✅ Responsive design
+
+Thank you for your consideration.
+
+Best regards,
+Ashish Raikwar
+

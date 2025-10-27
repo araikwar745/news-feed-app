@@ -1,0 +1,77 @@
+================================================================================
+              🎯 SUBMIT IN 3 SIMPLE STEPS - COPY & PASTE! 🎯
+================================================================================
+
+Everything is ready! Just copy and paste:
+
+================================================================================
+                    STEP 1: GITHUB (2 MINUTES)
+================================================================================
+
+1. Go to: https://github.com/new
+2. Name: news-feed-app
+3. Click "Create repository"
+4. Copy the page - you'll see commands
+
+5. Open PowerShell in this folder and paste:
+
+   cd "C:\Users\araik\OneDrive\Desktop\CDS\WEB DEV\ASSIGNMENT_1"
+   git remote add origin [PASTE YOUR REPO URL HERE]
+   git branch -M main
+   git push -u origin main
+
+Replace [PASTE YOUR REPO URL HERE] with the URL GitHub shows you!
+
+DONE! ✅ Your GitHub link: https://github.com/YOUR_USERNAME/news-feed-app
+
+================================================================================
+                STEP 2: NETLIFY (2 MINUTES)
+================================================================================
+
+1. Go to: https://app.netlify.com
+2. Sign up (free)
+3. Drag the "dist" folder from this location and drop it:
+   
+   C:\Users\araik\OneDrive\Desktop\CDS\WEB DEV\ASSIGNMENT_1\dist
+
+4. Wait 30 seconds
+5. Copy your URL: https://your-app-123.netlify.app
+
+DONE! ✅ Your app is live!
+
+================================================================================
+                    STEP 3: EMAIL (1 MINUTE)
+================================================================================
+
+Open your email and send this:
+
+To: hr@appdost.in
+Subject: Assignment 1 - News Feed App Submission
+
+Hi,
+
+I have completed the News Feed App assignment.
+
+GitHub: https://github.com/YOUR_USERNAME/news-feed-app
+Live Demo: https://YOUR-APP.netlify.app
+
+Features: Search, Categories, Pagination, Dark/Light theme, React hooks, Tailwind CSS
+
+Thank you!
+
+Ashish Raikwar
+
+DONE! ✅ Submitted!
+
+================================================================================
+
+Total Time: 5 minutes
+What to Do: Copy-paste 3 commands
+
+GO NOW! 🚀
+
+================================================================================
+
+
+
+

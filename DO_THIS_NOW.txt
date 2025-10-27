@@ -1,0 +1,71 @@
+================================================================================
+              🎉 SUBMIT YOUR ASSIGNMENT - FOLLOW THESE STEPS 🎉
+================================================================================
+
+YOUR APP IS 100% READY! Just do these 3 steps:
+
+================================================================================
+                        STEP 1: GITHUB (5 minutes)
+================================================================================
+
+1. Go to: https://github.com/new
+2. Create repository: news-feed-app
+3. Make it Public
+4. DON'T initialize with README
+5. Run these commands in PowerShell:
+
+   cd "C:\Users\araik\OneDrive\Desktop\CDS\WEB DEV\ASSIGNMENT_1"
+   git remote add origin https://github.com/YOUR_USERNAME/news-feed-app.git
+   git branch -M main
+   git push -u origin main
+
+Replace YOUR_USERNAME with your GitHub username!
+
+Your GitHub URL: https://github.com/YOUR_USERNAME/news-feed-app
+
+================================================================================
+                    STEP 2: DEPLOY (2 minutes)
+================================================================================
+
+OPTION A: NETLIFY (Easiest!)
+------------------------------
+1. Go to: https://app.netlify.com
+2. Drag and drop the 'dist' folder
+3. Get your URL: https://your-app.netlify.app
+
+OPTION B: VERCEL (Alternative)
+------------------------------
+1. Go to: https://vercel.com
+2. Import your GitHub repository
+3. Get your URL: https://your-app.vercel.app
+
+================================================================================
+                    STEP 3: EMAIL (2 minutes)
+================================================================================
+
+To: hr@appdost.in
+
+Subject: Assignment 1 - News Feed App Submission
+
+Hi Team,
+
+I have completed the News Feed App assignment.
+
+GitHub Repository:
+https://github.com/YOUR_USERNAME/news-feed-app
+
+Live Demo:
+https://YOUR-APP.netlify.app
+
+Thank you!
+
+Ashish Raikwar
+
+================================================================================
+                        ✅ THAT'S IT! DONE!
+================================================================================
+
+Total Time: 9 minutes
+
+================================================================================
+
