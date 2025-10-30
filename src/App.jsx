@@ -7,7 +7,7 @@ import Loading from './components/Loading'
 import Error from './components/Error'
 import ThemeToggle from './components/ThemeToggle'
 
-const API_KEY = 'b9598ad4c06a4f209a5fef4534397b9a'
+const API_KEY = import.meta.env.API;
 const API_URL = 'https://newsapi.org/v2/top-headlines'
 
 function App() {
