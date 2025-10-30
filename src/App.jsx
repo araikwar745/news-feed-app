@@ -7,7 +7,7 @@ import Loading from './components/Loading'
 import Error from './components/Error'
 import ThemeToggle from './components/ThemeToggle'
 
-const API_KEY = '0a4e238f79a2476a9eb4f7b04b58c38c' // Replace with your News API key or use demo key
+const API_KEY = '83aa31cc15494d30b7f00883d61273bd'
 const API_URL = 'https://newsapi.org/v2/top-headlines'
 
 function App() {
