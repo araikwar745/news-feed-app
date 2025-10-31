@@ -7,7 +7,7 @@ import Loading from './components/Loading'
 import Error from './components/Error'
 import ThemeToggle from './components/ThemeToggle'
 
-const API_KEY = import.meta.env.API;
+const API_KEY = import.meta.env.VITE_NEWS_API_KEY
 const API_URL = 'https://newsapi.org/v2/top-headlines'
 
 function App() {
@@ -26,6 +26,9 @@ function App() {
     setError(null)
     
     try {
+      if (!API_KEY) {
+        throw new Error('Missing API key. Set VITE_NEWS_API_KEY in environment.')
+      }
       const url = searchQuery
         ? `https://newsapi.org/v2/everything?q=${encodeURIComponent(searchQuery)}&apiKey=${API_KEY}&page=${page}&pageSize=12`
         : `${API_URL}?country=${country}&category=${category}&apiKey=${API_KEY}&page=${page}&pageSize=12`
