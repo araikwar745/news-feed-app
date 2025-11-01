@@ -30,10 +30,14 @@ function App() {
         throw new Error('Missing API key. Set VITE_NEWS_API_KEY in environment.')
       }
       const url = searchQuery
-        ? `https://newsapi.org/v2/everything?q=${encodeURIComponent(searchQuery)}&apiKey=${API_KEY}&page=${page}&pageSize=12`
-        : `${API_URL}?country=${country}&category=${category}&apiKey=${API_KEY}&page=${page}&pageSize=12`
-      
-      const response = await fetch(url)
+        ? `https://newsapi.org/v2/everything?q=${encodeURIComponent(searchQuery)}&page=${page}&pageSize=12`
+        : `${API_URL}?country=${country}&category=${category}&page=${page}&pageSize=12`
+
+      const response = await fetch(url, {
+        headers: {
+          'X-Api-Key': API_KEY,
+        },
+      })
       const data = await response.json()
       
       if (data.status === 'ok') {
